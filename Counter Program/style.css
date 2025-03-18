@@ -1,0 +1,28 @@
+#count{
+    display: block;
+    text-align: center;
+    font-size: 10rem;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#counterbtn{
+    text-align: center;
+    margin: 0;
+}
+
+#counterbtn button{
+    margin: 5px;
+    border-radius: 5px;
+    color: black;
+    background-color: aquamarine;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+#counterbtn button:hover{
+    background-color: aqua;
+}
+
+
+
