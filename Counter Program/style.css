@@ -9,9 +9,9 @@
 #counterbtn{
     text-align: center;
     margin: 0;
-}
+} 
 
-#counterbtn button{
+#counterbtn button{ 
     margin: 5px;
     border-radius: 5px;
     color: black;

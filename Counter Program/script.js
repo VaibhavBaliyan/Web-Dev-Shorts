@@ -7,8 +7,7 @@ let countValue = 0;
 
 increment.onclick = function () {
     countValue++;
-    count.textContent = countValue;
-}
+    count.textContent = countValue; 
 
 decrement.onclick = function () {
     countValue--;
